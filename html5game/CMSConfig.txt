@@ -1,0 +1,6 @@
+{
+	"spaceID": "tmky1e8a7kbx",
+	"environmentID": "master",
+	"entryID": "6XZaxEUY0gt6t7FUqxwisl",
+	"token": "HuBUBgtQb-huzVf-twt2NJ7ftKxfNzIk7bGqUdVkd4U"
+}

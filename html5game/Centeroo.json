@@ -1,0 +1,99 @@
+{
+    "questions": [
+        {
+            "dialogueText": "So want to go Bonnaroo eh?  Yeaahh I’ve been to every Roo since 2002.",
+            "questionText": "It’s a magical world of music, fun, and friendship.",
+            "answers": [
+                {
+                    "answerText": "Tell me more",
+                    "value": 0,
+                    "outcome": "Of course my friend"
+                }
+            ]
+        },
+        {
+            "dialogueText": "In my early days, I used to love sittin’ out in nature. With only the essentials and a fresh warm breeze. Now that I’m older, I’ve opted for a life of cool air and cozy couches.",
+            "questionText": "What kind of comfort are you looking for?",
+            "answers": [
+                {
+                    "answerText": "I’m not above using an outhouse and the elements never bothered me much.",
+                    "value": 1,
+                    "outcome": "Green horn eh? Well I can’t"
+                },
+                {
+                    "answerText": "I’m bringing extra coin to make sure I get a cool, clean, and comfortable spot to lounge",
+                    "value": 2,
+                    "outcome": "Oh you’ll be cozy when you’re hangin’ with your pals or watching live streams from the stages."
+                },
+                {
+                    "answerText": "I’ll spare no expense. I’m looking for the royal treatment.",
+                    "value": 3,
+                    "outcome": "And a royal treatment it is! Everything from exclusive festival gifts to complimentary messages"
+                }
+            ]
+        },
+        {
+            "dialogueText": "I hear they have quite the set of performers this year. I’m bringing extra coin to get as close and exclusive to action as I can.",
+            "questionText": "How close do you plan on getting to the action?",
+            "answers": [
+                {
+                    "answerText": "Not, me. I’m happy to be in the thick of it with regular folk.",
+                    "value": 1,
+                    "outcome": "Shoulder to shoulder with the most passionate of festival goers, I like it."
+                },
+                {
+                    "answerText": "Yeah it should be a hoot.  A few dedicated viewing areas does sound nice.",
+                    "value": 2,
+                    "outcome": "It’s a nice view up on that hill."
+                },
+                {
+                    "answerText": "I hear you, partner. I want to be right up at that stage for every show, and special transport to get me around quick!",
+                    "value": 3,
+                    "outcome": "Hah! Dedicated lines, golf cart shuttles, close up views. I’m right there with ya!"
+                }
+            ]
+        },
+        {
+            "dialogueText": "But when it comes to the food and drink. I never skip on the premium experience.",
+            "questionText":  "Tell me friend, what’s your price for a decent meal and drink?",
+            "answers": [
+                {
+                    "answerText": "I can fend for myself, thanks.",
+                    "value": 1,
+                    "outcome": "Not to worry, you’ll still have plenty of food and drink vendors!"
+                },
+                {
+                    "answerText": "I suppose I could go for some dedicated food services and a private bar.",
+                    "value": 2,
+                    "outcome": "Everybody likes to be waited on from time to time."
+                },
+                {
+                    "answerText": "Complimentary snacks, drinks, and catered meals...That does sound nice.",
+                    "value": 3,
+                    "outcome": "Why worry about anything when someone else will take care of you!"
+                }
+            ]
+        },
+        {
+            "dialogueText": "Hmmmm well I think I've got just the suggestion for you partner. You don't have to take my advice, but I think I may know what you're looking for.",
+            "questionText":  "Want to check out the catalogue?",
+            "answers": [
+                {
+                    "answerText": "Yes Please!",
+                    "value": 0,
+                    "outcome": ""
+                },
+                {
+                    "answerText": "Hmmm, I'd like to Start Over",
+                    "value": 0,
+                    "outcome": ""
+                },
+                {
+                    "answerText": "I know what I want, take me straight to purchase",
+                    "value": 0,
+                    "outcome": ""
+                }
+            ]
+        }
+    ]
+}

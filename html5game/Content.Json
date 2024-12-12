@@ -1,0 +1,547 @@
+{
+    "products": [
+        {
+            "title": "Centeroo",
+            "description": "lorem ipsum",
+            "wristbandsCollection":[
+                {
+                    "id": "ga",
+                    "title": "sCPageGA",
+                    "subtitle": "lorem ipsum",
+                    "image": "sWristbandGA",
+                    "listDetails": [
+                        "Detail point 1",
+                        "Detail point 2",
+                        "Detail point 3"
+                    ],
+                    "price": "150"
+                },
+                {
+                    "id": "ga-plus",
+                    "title": "sCPageGAPlus",
+                    "subtitle": "sWristbandGAPlus",
+                    "image": "sWristbandGAPlus",
+                    "listDetails": [
+                        "Detail point 1",
+                        "Detail point 2",
+                        "Detail point 3"
+                    ],
+                    "price": "150"
+                },
+                {
+                    "id": "vip",
+                    "title": "sCPageVIP",
+                    "subtitle": "lorem ipsum",
+                    "image": "sWristbandVIP",
+                    "listDetails": [
+                        "Detail point 1",
+                        "Detail point 2",
+                        "Detail point 3"
+                    ],
+                    "price": "150"
+                },
+                {
+                    "id": "platinum",
+                    "title": "sCPagePlatinum",
+                    "subtitle": "lorem ipsum",
+                    "image": "sWristbandPlatinum",
+                    "listDetails": [
+                        "Detail point 1",
+                        "Detail point 2",
+                        "Detail point 3"
+                    ],
+                    "price": "150"
+                },
+                {
+                    "id": "roo-insider",
+                    "title": "sCPageRooInsider",
+                    "subtitle": "lorem ipsum",
+                    "image": "sWristbandRooInsider",
+                    "listDetails": [
+                        "Detail point 1",
+                        "Detail point 2",
+                        "Detail point 3"
+                    ],
+                    "price": "150"
+                }
+                
+            ]
+        },
+        {
+            "title": "Outeroo",
+            "description": "lorem ipsum",
+            "locationsCollection": [
+                {
+                    "location": "ROO GALAXY",
+                    "titleSprite" : "sCPageRooGalaxy",
+                    "items": [
+                    {
+                        "id": "carpool-primitive",
+                        "title": "Primitive Carpool Camping",
+                        "subtitle": "sPrimitveCarpoolCamping",
+                        "image": "sprite",
+                        "textSprite": "sPrimitveCarpoolCamping",
+                        "listDetails": [
+                            "Detail point 1",
+                            "Detail point 2",
+                            "Detail point 3"
+                        ],
+                        "price": "89"
+                    },
+                    {
+                        "id": "car-primitive",
+                        "title": "Primitive Car Camping",
+                        "subtitle": "sPrimitveCarCamping",
+                        "image": "sprite",
+                        "textSprite": "sPrimitveCarCamping",
+                        "listDetails": [
+                            "Detail point 1",
+                            "Detail point 2",
+                            "Detail point 3"
+                        ],
+                        "price": "150"
+                    }
+                ]
+                },
+                {
+                    "location": "MARS COLONY",
+                    "titleSprite" : "sCPageMarsColony",
+                    "items": [
+                        {
+                            "id": "souvenir-tent",
+                            "title": "Souvenir Tent",
+                            "subtitle": "sSouvenirTent",
+                            "image": "sprite",
+                            "textSprite": "sSouvenirTent",
+                            "listDetails": [
+                                "Detail point 1",
+                                "Detail point 2",
+                                "Detail point 3"
+                            ],
+                            "price": "575"
+                        }
+                    ]
+                },
+                {
+                    "location": "MOON COLONY",
+                    "titleSprite" : "sCPageMoonColony",
+                    "items": [
+                        {
+                            "id": "closer-car-primitive",
+                            "title": "Closer Primitive Car Camping",
+                            "subtitle": "sCloserPrimitiveCarCamping",
+                            "image": "sprite",
+                            "textSprite": "sCloserPrimitiveCarCamping",
+                            "listDetails": [
+                                "Detail point 1",
+                                "Detail point 2",
+                                "Detail point 3"
+                            ],
+                            "price": "750"
+                        },
+                        {
+                            "id": "car-primitive",
+                            "title": "Primitive Car Camping",
+                            "subtitle": "sPrimitveCarCamping    ",
+                            "image": "sprite",
+                            "textSprite": "sPrimitveCarCamping",
+                            "listDetails": [
+                                "Detail point 1",
+                                "Detail point 2",
+                                "Detail point 3"
+                            ],
+                            "price": "500"
+                        },
+                        {
+                            "id": "car-powered",
+                            "title": "Powered Car Camping",
+                            "subtitle": "sPoweredCarCamping",
+                            "image": "sprite",
+                            "textSprite": "sPoweredCarCamping",
+                            "listDetails": [
+                                "Detail point 1",
+                                "Detail point 2",
+                                "Detail point 3"
+                            ],
+                            "price": "999"
+                        },
+                        {
+                            "id": "darkroom-queen",
+                            "title": "Large Darkroom Tent",
+                            "subtitle": "sLargeDarkroomTentQueen",
+                            "image": "sprite",
+                            "textSprite": "sLargeDarkroomTentQueen",
+                            "listDetails": [
+                                "Detail point 1",
+                                "Detail point 2",
+                                "Detail point 3"
+                            ],
+                            "price": "2095"
+                        },
+                        {
+                            "id": "darkroom-twin",
+                            "title": "Large Darkroom Tent",
+                            "subtitle": "sLargeDarkroomTentDoubleTwin",
+                            "image": "sprite",
+                            "textSprite": "sLargeDarkroomTentDoubleTwin",
+                            "listDetails": [
+                                "Detail point 1",
+                                "Detail point 2",
+                                "Detail point 3"
+                            ],
+                            "price": "1595"
+                        },
+                        {
+                            "id": "four-person-bell",
+                            "title": "Four-Person Bell Tent",
+                            "subtitle": "sFourPersonBellTent",
+                            "image": "sprite",
+                            "textSprite": "sFourPersonBellTent",
+                            "listDetails": [
+                                "Detail point 1",
+                                "Detail point 2",
+                                "Detail point 3"
+                            ],
+                            "price": "3200"
+                        },
+                        {
+                            "id": "luxury-bell-queen",
+                            "title": "Luxury Bell Tent",
+                            "subtitle": "sLuxuryBellTentQueen",
+                            "image": "sprite",
+                            "textSprite": "sLuxuryBellTentQueen",
+                            "listDetails": [
+                                "Detail point 1",
+                                "Detail point 2",
+                                "Detail point 3"
+                            ],
+                            "price": "2600"
+                        },
+                        {
+                            "id": "luxury-bell-twin",
+                            "title": "Luxury Bell Tent",
+                            "subtitle": "sLuxuryBellTentDoubleTwin",
+                            "image": "sprite",
+                            "textSprite": "sLuxuryBellTentDoubleTwin",
+                            "listDetails": [
+                                "Detail point 1",
+                                "Detail point 2",
+                                "Detail point 3"
+                            ],
+                            "price": "2600"
+                        }
+                    ]
+                },
+                {
+                    "location": "STARSHIP SPACEPORT",
+                    "titleSprite" : "sCPageStarshipSpaceport",
+                    "items": [
+                        {
+                            "id": "closer-rv-primitive",
+                            "title": "Closer Primitive RV",
+                            "subtitle": "sCloserPrimitiveRV",
+                            "image": "sprite",
+                            "textSprite": "sCloserPrimitiveRV",
+                            "listDetails": [
+                                "Detail point 1",
+                                "Detail point 2",
+                                "Detail point 3"
+                            ],
+                            "price": "750"
+                        },
+                        {
+                            "id": "rv-primitive",
+                            "title": "Primitive RV",
+                            "subtitle": "sPrimitiveRV",
+                            "image": "sprite",
+                            "textSprite": "sPrimitiveRV",
+                            "listDetails": [
+                                "Detail point 1",
+                                "Detail point 2",
+                                "Detail point 3"
+                            ],
+                            "price": "635"
+                        },
+                        {
+                            "id": "closer-rv-powered",
+                            "title": "Closer Power RV",
+                            "subtitle": "sCloserPowerRV",
+                            "image": "sprite",
+                            "textSprite": "sCloserPowerRV",
+                            "listDetails": [
+                                "Detail point 1",
+                                "Detail point 2",
+                                "Detail point 3"
+                            ],
+                            "price": "1500"
+                        },
+                        {
+                            "id": "rv-powered",
+                            "title": "Power RV",
+                            "subtitle": "sPowerRv",
+                            "image": "sprite",
+                            "textSprite": "sPowerRV",
+                            "listDetails": [
+                                "Detail point 1",
+                                "Detail point 2",
+                                "Detail point 3"
+                            ],
+                            "price": "1255"
+                        }
+                    ]
+                },
+                {
+                    "location": "AREA 931",
+                    "titleSprite" : "sCPageArea931",
+                    "items": [
+                        {
+                            "id": "car-primitive",
+                            "title": "Primitive Car Camping",
+                            "subtitle": "sPrimitveCarCamping",
+                            "image": "sprite",
+                            "textSprite": "sPrimitveCarCamping",
+                            "listDetails": [
+                                "Detail point 1",
+                                "Detail point 2",
+                                "Detail point 3"
+                            ],
+                            "price": "1555"
+                        },
+                        {
+                            "id": "luxury-rv",
+                            "title": "Luxury RV Package",
+                            "subtitle": "sLuxuryRVPackage",
+                            "image": "sprite",
+                            "textSprite": "sLuxuryRVPackage",
+                            "listDetails": [
+                                "Detail point 1",
+                                "Detail point 2",
+                                "Detail point 3"
+                            ],
+                            "price": "Prices Vary"
+                        },
+                        {
+                            "id": "luxury-luna-queen",
+                            "title": "Luxury Luna Bell Tent",
+                            "subtitle": "sLuxuryLunaBellTentQueen",
+                            "image": "sprite",
+                            "textSprite": "sLuxuryLunaBellTentQueen",
+                            "listDetails": [
+                                "Detail point 1",
+                                "Detail point 2",
+                                "Detail point 3"
+                            ],
+                            "price": "3700"
+                        },
+                        {
+                            "id": "luxury-luna-twin",
+                            "title": "Luxury Luna Bell Tent",
+                            "subtitle": "sLuxuryLunaBellTentDoubleTwin",
+                            "image": "sprite",
+                            "textSprite": "sLuxuryLunaBellTentDoubleTwin",
+                            "listDetails": [
+                                "Detail point 1",
+                                "Detail point 2",
+                                "Detail point 3"
+                            ],
+                            "price": "3700"
+                        },
+                        {
+                            "id": "safari-queen",
+                            "title": "Wood Frame Safari Tent",
+                            "subtitle": "sWoodFrameSafariQueen",
+                            "image": "sprite",
+                            "textSprite": "sWoodFrameSafariQueen",
+                            "listDetails": [
+                                "Detail point 1",
+                                "Detail point 2",
+                                "Detail point 3"
+                            ],
+                            "price": "4400"
+                        },
+                        {
+                            "id": "safari-twin",
+                            "title": "Wood Frame Safari Tent",
+                            "subtitle": "sWoodFrameSafariDoubleTwin",
+                            "image": "sprite",
+                            "textSprite": "sWoodFrameSafariDoubleTwin",
+                            "listDetails": [
+                                "Detail point 1",
+                                "Detail point 2",
+                                "Detail point 3"
+                            ],
+                            "price": "4400"
+                        }
+                    ]
+                },
+                {
+                    "location": "BASECAMP",
+                    "titleSprite": "sCPageBasecamp",
+                    "items": [
+                        {
+                            "id": "carpool-primitive",
+                            "title": "Primitive Carpool Camping",
+                            "subtitle": "sPrimitveCarpoolCamping",
+                            "image": "sprite",
+                            "textSprite": "sPrimitveCarpoolCamping",
+                            "listDetails": [
+                                "Detail point 1",
+                                "Detail point 2",
+                                "Detail point 3"
+                            ],
+                            "price": "89"
+                        },
+                        {
+                            "id": "car-primitive",
+                            "title": "Primitive Car Camping",
+                            "subtitle": "sPrimitveCarCamping",
+                            "image": "sprite",
+                            "textSprite": "sPrimitveCarCamping",
+                            "listDetails": [
+                                "Detail point 1",
+                                "Detail point 2",
+                                "Detail point 3"
+                            ],
+                            "price": "150"
+                        },
+                        {
+                            "id": "rv-primitive",
+                            "title": "Primitive RV",
+                            "subtitle": "sPrimitiveRV",
+                            "image": "sprite",
+                            "textSprite": "sPrimitiveRV",
+                            "listDetails": [
+                                "Detail point 1",
+                                "Detail point 2",
+                                "Detail point 3"
+                            ],
+                            "price": "525"
+                        },
+                        {
+                            "id": "rv-powered",
+                            "title": "Power RV",
+                            "subtitle": "sPowerRV",
+                            "image": "sprite",
+                            "textSprite": "sPowerRV",
+                            "listDetails": [
+                                "Detail point 1",
+                                "Detail point 2",
+                                "Detail point 3"
+                            ],
+                            "price": "1255"
+                        },
+                        {
+                            "id": "day-parking",
+                            "title": "Day Parking",
+                            "subtitle": "sOnSiteDayParking",
+                            "image": "sprite",
+                            "textSprite": "sOnSiteDayParking",
+                            "listDetails": [
+                                "Detail point 1",
+                                "Detail point 2",
+                                "Detail point 3"
+                            ],
+                            "price": "50"
+                        }
+                    ]
+                },
+                {
+                    "location": "GROOP GALATEA",
+                    "titleSprite": "sCPageGroopGalatea",
+                    "items": [
+                        {
+                            "id": "groop-leader",
+                            "title": "Groop Leader",
+                            "subtitle": "sGroopLeader",
+                            "image": "sprite",
+                            "textSprite": "sGroopLeader",
+                            "listDetails": [
+                                "Detail point 1",
+                                "Detail point 2",
+                                "Detail point 3"
+                            ],
+                            "price": "65"
+                        }
+                    ]
+                },
+                {
+                    "location": "QUASAR COLLECTIVE",
+                    "titleSprite": "sCPageQuasarCollective",
+                    "items": [
+                        {
+                            "id": "beyond",
+                            "title": "The Beyond",
+                            "subtitle": "sTheBeyond",
+                            "image": "sprite",
+                            "textSprite": "sTheBeyond",
+                            "listDetails": [
+                                "Detail point 1",
+                                "Detail point 2",
+                                "Detail point 3"
+                            ],
+                            "price": "150"
+                        },
+                        {
+                            "id": "soloroo",
+                            "title": "SoloRoo",
+                            "subtitle": "sSoloRoo",
+                            "image": "sprite",
+                            "textSprite": "sSoloRoo",
+                            "listDetails": [
+                                "Detail point 1",
+                                "Detail point 2",
+                                "Detail point 3"
+                            ],
+                            "price": "150"
+                        },
+                        {
+                            "id": "soberoo",
+                            "title": "SobeRoo",
+                            "subtitle": "sSobeRoo",
+                            "image": "sprite",
+                            "textSprite": "sSobeRoo",
+                            "listDetails": [
+                                "Detail point 1",
+                                "Detail point 2",
+                                "Detail point 3"
+                            ],
+                            "price": "150"
+                        },
+                        {
+                            "id": "familyroo",
+                            "title": "FamilyRoo",
+                            "subtitle": "sFamilyRoo",
+                            "image": "sprite",
+                            "textSprite": "sFamilyRoo",
+                            "listDetails": [
+                                "Detail point 1",
+                                "Detail point 2",
+                                "Detail point 3"
+                            ],
+                            "price": "150"
+                        }
+                    ]
+                },
+                {
+                    "location": "COSMIC NOMADS",
+                    "titleSprite": "sCPageCosmicNomads",
+                    "items": [
+                        {
+                            "id": "day-parking",
+                            "title": "On-Site Day Parking",
+                            "subtitle": "sOnSiteDayParking",
+                            "image": "sprite",
+                            "textSprite": "sOnSiteDayParking",
+                            "listDetails": [
+                                "Detail point 1",
+                                "Detail point 2",
+                                "Detail point 3"
+                            ],
+                            "price": "50"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
